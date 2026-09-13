@@ -1,1 +1,6 @@
 
+Flask
+twilio
+requests
+openai
+python-dotenv
